@@ -1,3 +1,3 @@
 # DotMeTodo
 
-+ something will adding soon in .me website.
++ something will be added soon in .me website.
